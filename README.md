@@ -1,4 +1,4 @@
-# fahrplanauskunft
+# Fahrplanauskunft
 
 A new Flutter project.
 
